@@ -1,0 +1,7 @@
+# Ignore specific hidden files
+.env
+.DS_Store
+.hidden
+# Ignore entire hidden directories
+.idea/
+.vscode/
