@@ -57,4 +57,26 @@ the .gitignore file should absolutely be tracked and committed to your repositor
 
 Tracking the file ensures that every collaborator cloning the project automatically inherits the same rules for ignoring build artifacts, system files, and local
 ```
+```
+Git Configuration
 
+You can retrieve your active username or email address individually
+git config user.name
+git config user.email
+
+Global settings
+git config --global user.name
+git config --global user.email
+
+```
+```
+Local settings (applies only to your current repository):
+bash git config --local user.name git config --local user.email
+```
+
+```
+List All Configurations
+
+git config --list
+git config -l | grep user
+```
