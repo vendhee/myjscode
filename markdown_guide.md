@@ -80,3 +80,6 @@ List All Configurations
 git config --list
 git config -l | grep user
 ```
+git ls-files
+git log
+
