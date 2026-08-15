@@ -80,6 +80,18 @@ List All Configurations
 git config --list
 git config -l | grep user
 ```
+```
+ssh-keygen -t ed25519 -C "your_email@example.com"
+// Share only public key | to github
+// Never ever share private key
+git clone 
+
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+ssh-add -l
+
 git ls-files
 git log
-
+git status
+git pull (// at the day start) 
+```
