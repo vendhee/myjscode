@@ -25,6 +25,8 @@ console.log("Hello World");
 ***
 ___
 
+# Git Commands
+
 ```
 echo "# myjscode" >> README.md
 git init
