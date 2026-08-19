@@ -1,4 +1,4 @@
-![JavaScript Icon](Images\js_image.png)
+![JavaScript Icon](<img width="1052" height="1052" alt="Image" src="https://github.com/user-attachments/assets/9bb832b2-4b75-4359-9fd8-a018a58541d4" />)
 # MY Javascript coading practice and projects
 ## Chapter List
 ### Chapter 01_Basics /n Introduction
