@@ -1,5 +1,6 @@
 # Ignore specific hidden files
 .env
+.commandcode
 .DS_Store
 .hidden
 # Ignore entire hidden directories

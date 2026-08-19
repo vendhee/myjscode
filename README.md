@@ -1,4 +1,4 @@
-![alt text](image.png)
+![JavaScript Icon](Images\js_image.png)
 # MY Javascript coading practice and projects
 ## Chapter List
 ### Chapter 01_Basics /n Introduction
