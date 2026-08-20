@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        setTimeout(wakeUpUser, 3000);
+        function wakeUpUser() {
+            alert("Wake up!\n\nDid you?");
+
+        // let userName = "Alex";
+        // alert("Welcome back, " + userName + "!"); // Concatenation
+        // alert(5 + 10); // Displays 15
+
+        }
+       
+    </script>
+        <button onclick="alert('Form submitted successfully!')">Submit</button>
+         <iframe src="https://www.nationalgeographic.com/"></iframe>
+         <dialog open>
+            <p>Welcome to the site!</p>
+            <button onclick="this.parentElement.close()">Close</button>
+
+
+</head>
+<body>
+    
+</body>
+</html>
+
+<!-- This is a simple alert script that will display an alert message after 3 seconds
+
+The alert() method in JavaScript displays a modal dialog box with a specified message and an OK button. 
+It is a synchronous method belonging to the browser's window object that pauses code execution until the user dismisses the popup.
+It strictly renders plain text strings; it cannot render HTML formatting or interactive components.
+-->
+
+<!--
+Modern Alternatives
+Because native browser alerts disrupt the user experience and cannot be styled with CSS, modern web applications rarely use them in production. 
+
+Common alternatives include:
+- Debugging: Use console.log() to check variables without interrupting script behavior.
+- UI Elements: Build custom modal overlays using native HTML <dialog> tags or UI frame libraries.
+-->
